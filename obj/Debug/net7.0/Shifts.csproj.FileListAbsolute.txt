@@ -1,0 +1,17 @@
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/Shifts
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/Shifts.deps.json
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/Shifts.runtimeconfig.json
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/Shifts.dll
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/Shifts.pdb
+/Users/connieleighton/Documents/Shifts/bin/Debug/net7.0/CsvHelper.dll
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.csproj.AssemblyReference.cache
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.AssemblyInfoInputs.cache
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.AssemblyInfo.cs
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.csproj.CoreCompileInputs.cache
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.csproj.CopyComplete
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.dll
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/refint/Shifts.dll
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.pdb
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/Shifts.genruntimeconfig.cache
+/Users/connieleighton/Documents/Shifts/obj/Debug/net7.0/ref/Shifts.dll

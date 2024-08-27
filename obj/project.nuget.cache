@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOCC5m0WvIawkIQFCwFe+fATtB40qSbF4U9eE0lfPn5R2LH/y2r56jjdzA2xMX0lFlvHoFmrw424DfHdFJf6dw==",
+  "success": true,
+  "projectFilePath": "/Users/connieleighton/Documents/Shifts/Shifts.csproj",
+  "expectedPackageFiles": [
+    "/Users/connieleighton/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
